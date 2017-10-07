@@ -1,0 +1,23 @@
+0:00:03.460,0:00:07.480
+So Polkadot consists of a number of different elements:
+
+0:00:08.200,0:00:15.990
+There is a number of structural elements and the number of parties that participate in the Polkadot protocol.
+
+0:00:17.500,0:00:24.400
+The main structure is the relay chain which is tasked with maintaining
+
+0:00:24.490,0:00:30.809
+consensus across the different chains and providing that message relaying between different chains
+
+0:00:31.630,0:00:38.699
+And the other thing is of course the para chains which are the different constituent chains of the overall network.
+
+0:00:39.300,0:00:44.219
+So they can be either private consortium chains that are bridged
+
+0:00:44.219,0:00:49.379
+to the Polkadot network or they can be full-fledged public parachains that
+
+0:00:49.379,0:00:55.439
+have all sorts of different state machines and can communicate with each other through the relay chain.

@@ -1,0 +1,26 @@
+0:00:03.909,0:00:15.600
+Since the release of the Polkadot paper we've been working on a software platform for not only pluggable consensus, but also pluggable state machines.
+
+0:00:16.209,0:00:21.239
+We've also been performing research into a proof of state consensus network.
+
+0:00:21.240,0:00:26.540
+And there are a number of key milestones we want to reach in the upcoming two years:
+
+0:00:26.880,0:00:31.400
+The first of which is a value bearing proof of stake test network.
+
+0:00:32.200,0:00:37.940
+The second of which is a bridge between two chains secured by different consensus algorithms.
+
+0:00:38.360,0:00:46.700
+This will be instrumental in connecting public or permissionless chains to private or consortium chains via the Polkadot network.
+
+0:00:49.340,0:00:57.300
+The last milestone we want to have is a software framework for people to implement their own parachains
+
+0:00:57.320,0:01:03.000
+to create an ecosystem of parachains which can be added and removed as the governance of the chain sees fit.
+
+0:01:03.820,0:01:07.470
+With these components we can begin the launch of the Polkadot network.
