@@ -1,0 +1,26 @@
+0:00:04.100,0:00:09.800
+Momentan erfordert jede Blockchain eine separate Sicherungsgemeinde.
+
+0:00:10.200,0:00:16.300
+So haben beispielsweise Bitcoin oder Ethereum eigene 'Mininggemeinden', die eine gewaltige
+
+0:00:16.300,0:00:20.600
+Rechenleistung bereitstellen um sicherzustellen, dass alle Transaktionen gültig sind.
+
+0:00:20.600,0:00:27.800
+Allerdings führt dies' zu eigenen Problemen, denn wenn ich eine neue Blockchain erstellen möchte, die andere Eigenschaften besitzt
+
+0:00:27.800,0:00:36.200
+oder eine private Blockchain ist, müsste ich dann genügend Menschen überzeugen, diese zu pflegen und zu sichern.
+
+0:00:37.200,0:00:40.900
+Eine wichtige Eigenschaft von Polkadot ist 'pooled security',
+
+0:00:40.900,0:00:48.600
+was es all diesen verschiedenen Ketten ermöglicht eine gemeinsame Sicherung des Polkadot-Netzwerkes zu nutzen.
+
+0:00:48.600,0:00:56.200
+Dies' ermöglich mir eine neue Kette einzusetzen und nicht nur von der eigenen kleinen Gemeinschaft gesichert zu werden,
+
+0:00:56.200,0:00:58.200
+sondern durch das gesamte Polkadot-Netzwerk.

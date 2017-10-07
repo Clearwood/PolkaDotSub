@@ -1,0 +1,17 @@
+0:00:04.135,0:00:06.725
+The mechanism that gives Polkadot security
+
+0:00:06.725,0:00:08.940
+also lends it power for scalability.
+
+0:00:09.420,0:00:12.900
+Historically a Blockchain has consisted of two parts:
+
+0:00:12.900,0:00:15.740
+A consensus algorithm and a state machine
+
+0:00:15.780,0:00:20.380
+which consists of account balances and smart contract state.
+
+0:00:21.020,0:00:28.300
+By uniting multiple state machines under a single consensus algorithm we can advance all of them in parallel.

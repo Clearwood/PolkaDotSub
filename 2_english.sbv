@@ -1,0 +1,50 @@
+0:00:04.120,0:00:06.540
+Over the past years we've seen many different blockchains popping up.
+
+0:00:06.820,0:00:09.720
+Many of them are tailored to specific needs.
+
+0:00:10.210,0:00:13.889
+Some are highly functional and open such as Ethereum.
+
+0:00:14.380,0:00:18.600
+Some provide strong privacy guarantees such as Zcash.
+
+0:00:19.200,0:00:25.080
+Others are specifically designed to fulfill permissioning requirements of enterprises.
+
+0:00:25.820,0:00:32.260
+At this point we believe that a future of multiple coexisting blockchains is inevitable.
+
+0:00:32.600,0:00:40.180
+Not one chain to rule them all but an ecosystem of diverse blockchains all serving their own purpose.
+
+0:00:41.100,0:00:47.360
+The problem here is that currently all of these networks remain severely isolated.
+
+0:00:48.160,0:00:59.700
+Without resorting to the old trust model by using central authorities data and assets can only be sent across the same network.
+
+0:01:00.960,0:01:08.580
+Now that's really where Polkadot comes in because Polkadot is designed to enable
+
+0:01:08.680,0:01:16.120
+applications and smart contracts on one blockchain to seamlessly interact with data and assets on other chains.
+
+0:01:16.479,0:01:23.909
+Most importantly Polkadot does not care if these transacting chains are open and public rather than
+
+0:01:24.159,0:01:29.429
+closed such as those that might be used in an international banking blockchain.
+
+0:01:30.280,0:01:37.200
+Now imagine sending Zcash from one Ethereum contract to another Ethereum contract or
+
+0:01:37.980,0:01:48.460
+having a transaction on an enterprise logistic blockchain kick lose another transaction on an international banking blockchain.
+
+0:01:49.480,0:01:54.400
+To conclude, Polkadot is the next generation blockchain technology
+
+0:01:54.610,0:02:00.749
+that aims to bring all these chains together as equal citizens of one common network.

@@ -1,0 +1,14 @@
+0:00:04.000,0:00:11.120
+In Polkadot each validator is considered a light client of all of the parachains that adopt it.
+
+0:00:11.840,0:00:16.760
+This means that participating in any giving parachain is not particularly ressource intensive.
+
+0:00:17.320,0:00:24.300
+It also means that before a state transition could be included in the Polkadot relay network
+
+0:00:24.720,0:00:30.680
+that it must be accompanied by an irrefutable prove of its validity.
+
+0:00:30.980,0:00:34.820
+These proves will remain available for anybody to check.

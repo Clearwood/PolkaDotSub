@@ -1,0 +1,26 @@
+0:00:04.140,0:00:09.860
+Currently each Blockchain requires a separate securing community.
+
+0:00:10.200,0:00:16.360
+So for instance Bitcoin or Ethereum have their own mining community that provides a lot of
+
+0:00:16.360,0:00:20.600
+computational power in order to make sure all transactions are valid.
+
+0:00:21.580,0:00:27.869
+However this introduces an issue since if I'd want to create a new Blockchain that has different characteristics
+
+0:00:27.869,0:00:36.280
+or is a private Blockchain I would then need to persuade enough people to maintain it and provide it with security.
+
+0:00:37.240,0:00:40.900
+With Polkadot one major feature is pooled security
+
+0:00:40.900,0:00:48.280
+which enables all those different chains to leverage a common security of the Polkadot network.
+
+0:00:48.610,0:00:56.279
+Which makes it possible for me to deploy a new chain and not only be secured by my own small community
+
+0:00:56.280,0:00:59.579
+but by the overall Polkadot network.

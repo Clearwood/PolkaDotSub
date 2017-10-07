@@ -1,0 +1,17 @@
+0:00:03.880,0:00:07.320
+In Polkadot there are a number of unique participants
+
+0:00:07.580,0:00:11.540
+each of whom needs to communicate with each other at all times.
+
+0:00:11.860,0:00:16.040
+The groups of participants communicating with each other can be constantly changing.
+
+0:00:16.640,0:00:22.800
+Because of this we need a robust set of tools for peer to peer networking in order to keep the system running smoothly.
+
+0:00:23.640,0:00:26.000
+We've begun to develop such a set of tools 
+
+0:00:26.000,0:00:29.200
+and will integrate it into the beginning of the Polkadot release.
